@@ -25,6 +25,8 @@ git clone https://github.com/Jibinvsunny/Python_Basics.git
 cd Python_Basics
 jupyter notebook
 
-## Author: Jibin V Sunny
+## Author  **Jibin V Sunny**
 
-## Acknowledgment: This tutorial was prepared by the author with the assistance of AI tools for educational purposes.
+## Acknowledgment
+This tutorial was prepared by the author with the assistance of AI tools  
+for educational purposes.
