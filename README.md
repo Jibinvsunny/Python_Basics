@@ -32,12 +32,10 @@ with practical examples and clear explanations.
 
 Clone the repository and open the notebooks using Jupyter:
 
-```bash
 git clone https://github.com/Jibinvsunny/Python_Basics.git
 cd Python_Basics
 jupyter notebook
 You can also open the notebooks using JupyterLab or any compatible notebook environment.
-```bash
 
 ## Requirements
 The tutorials require Python 3 and the following packages:
