@@ -16,8 +16,10 @@ with practical examples and clear explanations.
 - Conditional statements (`if`, `elif`, `else`)
 - Loops (`for`, `while`)
 - Functions
-- Basic introduction to NumPy
+- Basic introduction to NumPy, Pandas
 - Introductory data handling concepts
+- Visualization - Matplotlib, Seaborn
+- Object Oriented Programing (OOP)
 
 ---
 
@@ -48,7 +50,7 @@ Install them using:
 pip install numpy pandas matplotlib
 
 ## Author
-**Jithin V Sunny**
+**Jibin V Sunny**
 
 ## Acknowledgment
 This tutorial was prepared by the author with the assistance of AI tools  
