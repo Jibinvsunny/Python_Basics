@@ -23,7 +23,7 @@ Clone the repository and open the notebooks using Jupyter:
 ```bash
 git clone https://github.com/Jibinvsunny/Python_Basics.git
 cd Python_Basics
-jupyter notebook
+jupyter notebook```
 
 ## Author  **Jibin V Sunny**
 
