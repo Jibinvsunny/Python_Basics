@@ -39,7 +39,7 @@ jupyter notebook
 You can also open the notebooks using JupyterLab or any compatible notebook environment.
 ```bash
 
-**## Requirements**
+## Requirements
 The tutorials require Python 3 and the following packages:
 
 numpy
@@ -49,15 +49,15 @@ Install them using:
 
 pip install numpy pandas matplotlib
 
-##** Author**
-Jithin V Sunny
+## Author
+**Jithin V Sunny**
 
-## **Acknowledgment**
-This tutorial was prepared by the author with the assistance of AI tools
+## Acknowledgment
+This tutorial was prepared by the author with the assistance of AI tools  
 for educational purposes.
 
-License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the MIT License.  
 You are free to use, modify, and distribute this material with attribution.
 
 
